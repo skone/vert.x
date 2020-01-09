@@ -447,7 +447,7 @@ public class JsonArray implements Iterable<Object>, ClusterSerializable, Shareab
   }
 
   /**
-   * Get the unerlying List
+   * Get the underlying List
    *
    * @return the underlying List
    */
